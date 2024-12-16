@@ -3,9 +3,9 @@
 1. Lightning Effect using GL_LINES
 ![](media/lightning.gif)</br>
 2. Drawing Circle
-    - Sun-Earth
+    - Sun-Earth</br>
     ![](media/sun-earth.gif)</br>
-    - CirclceLikeFan
+    - CirclceLikeFan</br>
     ![](media/circle_fan.gif)</br>
 4. Drawing Tool using mouse point, drag and click.
     ![](media/drawing_shape.gif)</br>
