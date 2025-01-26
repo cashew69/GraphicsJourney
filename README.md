@@ -13,5 +13,5 @@
     ![](media/UFO.gif)</br>
 4. Sky is Blue: creating procedural sky using Preetham's skylight model paper.
     ![](media/skyy.gif)</br>
-5. Particle Effect: Smoke
+5. Particle Effect: Smoke</br>
     ![](media/Particle_effect_triangle.gif)</br>
