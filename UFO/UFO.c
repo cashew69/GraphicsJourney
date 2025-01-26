@@ -155,7 +155,7 @@ void ufo(float originx, float originy, int isscaling, float scaleby)
 
         //originx = originx * scaleby;
         //originy = originy * scaleby;
-        rad_cockpit = rad_cockpit * scaleby;
+        rad_cockpit = rad_cockpit + scaleby;
         rad_body_vert = rad_body_vert * scaleby;
         rad_body_horz = rad_body_horz * scaleby;
 
