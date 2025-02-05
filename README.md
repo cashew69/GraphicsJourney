@@ -1,17 +1,42 @@
 # GraphicsJourney
 
-1. Lightning Effect using GL_LINES
-    ![](media/lightning.gif)</br>
-2. Drawing Circle
-    - Sun-Earth</br>
-    ![](media/sun-earth.gif)</br>
-    - CirclceLikeFan</br>
-    ![](media/circle_fan.gif)</br>
-4. Drawing Tool using mouse point, drag and click.
-    ![](media/drawing_shape.gif)</br>
-3. UFO > implemented scaling, translatation on my own.
-    ![](media/UFO.gif)</br>
-4. Sky is Blue: creating procedural sky using Preetham's skylight model paper.
-    ![](media/skyy.gif)</br>
-5. Particle Effect: Smoke</br>
-    ![](media/Particle_effect_triangle.gif)</br>
+A collection of graphics experiments and projects.
+
+## 6. Save The Train Game
+
+![](media/savethetraingame.mp4)
+
+## 5. Particle Effect: Smoke
+
+![](media/Particle_effect_triangle.gif)
+
+## 4. Sky is Blue: Procedural Sky
+
+Creating a procedural sky using Preetham's skylight model.
+
+![](media/skyy.gif)
+
+## 3. UFO: Scaling and Translation
+
+Implemented scaling and translation for a UFO.
+
+![](media/UFO.gif)
+
+## 2. Drawing Tool
+
+A simple drawing tool using mouse point, drag, and click.
+
+![](media/drawing_shape.gif)
+
+## 1. Drawing Circles
+
+*   Sun-Earth Animation
+    ![](media/sun-earth.gif)
+*   Circle Like Fan
+    ![](media/circle_fan.gif)
+
+## 0. Lightning Effect
+
+Lightning effect created using `GL_LINES`.
+
+![](media/lightning.gif)
