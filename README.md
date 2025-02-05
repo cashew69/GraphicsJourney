@@ -4,7 +4,7 @@ A collection of graphics experiments and projects.
 
 ## 6. Save The Train Game
 
-![](media/savethetraingame.mp4)
+[Watch the Save The Train Game video](media/savethetraingame.mp4)
 
 ## 5. Particle Effect: Smoke
 
