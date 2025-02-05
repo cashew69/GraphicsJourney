@@ -20,6 +20,8 @@ Kernal Version 6.12.10-zen1-1-zen
 #include <GL/glu.h>
 #include <time.h>
 
+#M_PI 3.14159265359
+
 // global variable declarations
 int bFullScreen = 0;
 float fTrainPistonMovX = 0.0f;
