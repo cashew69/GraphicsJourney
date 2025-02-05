@@ -7,7 +7,7 @@
 #include <stdio.h>
 
 #define PI 3.14159
-#define MAX_LINES 100
+#define MAX_LINES 10000
 
 
 // global variable declarations
@@ -59,6 +59,7 @@ int main(int argc, char* argv[])
 
     initialize();
 
+    glutReshapeFunc(resize);
     glutDisplayFunc(display);
     glutKeyboardFunc(keyboard);
     glutMouseFunc(mouse);
@@ -74,6 +75,11 @@ int initialize(void) {
     return(0);
 }
 
+void resize(int width, int height)
+{
+	// code
+	glViewport(0, 0, width, height);
+}
 
 
 void drawline(float x1, float y1, float x2, float y2, float r, float g, float b) {
